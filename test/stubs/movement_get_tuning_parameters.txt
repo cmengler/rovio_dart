@@ -1,0 +1,5 @@
+Cmd = nav
+responses = 0 | LeftRight=6 | Forward=5 | Reverse=6 |
+ DriveTurn=8 |  HomingTurn=9 |
+ ManDrive=7 | ManTurn=8 |
+ DockTimeout=72

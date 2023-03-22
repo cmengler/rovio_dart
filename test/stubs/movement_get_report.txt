@@ -1,0 +1,8 @@
+Cmd = nav
+responses = 0|x=-1066|y=1898|theta=0.213|room=0|ss=19115
+|beacon=18|beacon_x=13562|next_room=-1|next_room_ss=0
+|state=0|ui_status=0|resistance=0|sm=15|pp=0|flags=0001
+|brightness=6|resolution=2|video_compression=1|frame_rate=30
+|privilege=0|user_check=1|speaker_volume=22|mic_volume=22
+|wifi_ss=210|show_time=0|ddns_state=0|email_state=0
+|battery=138|charging=64|head_position=202|ac_freq=2
